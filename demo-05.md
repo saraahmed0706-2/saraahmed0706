@@ -2,7 +2,7 @@
 
 I provide some high level instructions on how to run this demo.
 
-Estimated Demo Time: X Minutes
+Estimated Demo Time: X Minutess
 
 **Step 1: Create a Pull Request**
 - open the **mywebapp/Views/Shared/_Layout.cshtml** file
